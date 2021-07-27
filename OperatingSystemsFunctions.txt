@@ -5,3 +5,7 @@ This is especially important if you work with very large files, such as movies o
 Macs have built-in wireless networking using Wi-Fi and Bluetooth standards. 
 Apple was the first computer company to embrace Wi-Fi. 
 Apple’s own brand name of wireless connection is called AirPort.
+
+macOS is compatible with other Apple devices.
+Things like AirDrop makes sharing easy between devices.
+You can access your saved data on your iPhone on your iMac.
