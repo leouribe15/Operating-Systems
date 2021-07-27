@@ -1,3 +1,7 @@
 All Macs come with at least 2GB (2 gigabytes) of RAM. 
 Having more RAM lets you do more things at a time. 
 This is especially important if you work with very large files, such as movies or video games.
+
+Macs have built-in wireless networking using Wi-Fi and Bluetooth standards. 
+Apple was the first computer company to embrace Wi-Fi. 
+Apple’s own brand name of wireless connection is called AirPort.
